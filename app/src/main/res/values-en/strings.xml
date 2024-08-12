@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lets Share</string>
+    <string name="valor_conta">Enter the bill amount</string>
+    <string name="qtd_pessoas">Enter the number of people</string>
+    <string name="resultado">Result</string>
+    <string name="compartilhar">Share</string>
+</resources>
